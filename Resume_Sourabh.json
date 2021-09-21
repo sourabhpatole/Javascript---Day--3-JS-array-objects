@@ -1,0 +1,73 @@
+{
+    "basics": {
+        "name": "Sourabh Patole",
+        "label": "",
+        "picture": "",
+        "email": "sourabhpatole@outlook.com",
+        "phone": "(+91)7517770319",
+        "degree": "BE-Computer Science",
+        "location": {
+            "address": "A15 Xrbia Housing society",
+            "postalCode": "411057",
+            "city": "Pune",
+            "countryCode": "+91",
+            "region": "Maharashtra"
+        },
+        "profiles": [
+            {
+                "network": "Linkedin",
+                "username": "Sourabh_Patole",
+                "url": "https://www.linkedin.com/in/sourabh-patole-4b9568136"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Amphenol Corporation",
+            "position": "Graduate Trainee Engineer(Robotics and Automation",
+            "website": "https://www.amphenol-in.com/",
+            "startDate": "2020/02/03",
+            "endDate": "2021/31/05",
+            "summary": "Working as a Robot Programmer and automation Engineer IT support",
+            "highlights": [
+                "completed 15 month training learn about Connector manufacturing process and complete presence for one project working as Robot programmer and automation engineer aslo perform basic IT dept "
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "SKN Sinhgad Institute of Technology, Lonavala",
+            "area": "Computer Science",
+            "studyType": "Engineering",
+            "startDate": "2016",
+            "endDate": "2019",
+            "gpa": "",
+            "courses": [
+                "Basic python programming",
+                "software testing",
+                "Robot Programming"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "name": "'Programming Languages'",
+            "level": "Intermediate",
+            "keywords": [
+                "Python,C#,Java"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Intermediate"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Trekking,Swimming",
+        ]
+    }
+]
+}
